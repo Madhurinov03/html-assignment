@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 18px;
+    height: 100vh;
 }
 
 .parent {
